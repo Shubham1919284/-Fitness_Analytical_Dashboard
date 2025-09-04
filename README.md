@@ -4,7 +4,7 @@ An interactive and visually engaging dashboard designed to track **fitness activ
 
 This project combines **Power BI, Python, and Excel** to showcase how data visualization can transform raw data into **actionable insights** for gyms, trainers, and fitness enthusiasts.  
 
----
+----
 
 ## 🚀 Project Overview  
 The Fitness Analytical Dashboard provides a holistic view of:  
@@ -16,7 +16,7 @@ The Fitness Analytical Dashboard provides a holistic view of:
 
 The goal is to **bridge the gap between fitness tracking and business analytics**, making it easier for gyms and fitness centers to improve both **health outcomes and business performance**.  
 
----
+----
 
 ## 📊 Dashboard Features  
 
