@@ -79,7 +79,7 @@ This project demonstrates how analytics can empower fitness centers to:
 
 ## 🔗 Access the Dashboard & Report  
 
-📂 **[Download Detailed Report (PDF)](https://github.com/Shubham1919284/-Fitness_Analytical_Dashboard/blob/e73f6707aea47e2160cd4cfc86c3a9dc6ba72b93/%F0%9F%93%8A%20Fitness%20Dashboard.pdf)**  
+📂 **[Download Detailed Report (PDF)](https://github.com/Shubham1919284/-Fitness_Analytical_Dashboard/blob/9363bdf6160fe01e111a67bd44536db19ae2e36f/Fitness_Analytical_Dashboard.pdf)**  
 📊 **Explore Dashboard Screenshots (above)**  
 
 ---
